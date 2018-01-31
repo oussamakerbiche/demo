@@ -1,4 +1,4 @@
 <?php
-echo "contact page";
+echo "hello from contact page";
 
  ?>
